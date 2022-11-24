@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfJsonSmth xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <JsonSmth>
+    <Name>Tozer</Name>
+    <Spot>Лайн Одн-Бкв</Spot>
+    <Type>Piece</Type>
+    <Time>0</Time>
+  </JsonSmth>
+  <JsonSmth>
+    <Name>Mick</Name>
+    <Spot>Стрит Кг</Spot>
+    <Type>Флоп</Type>
+    <Time>0</Time>
+  </JsonSmth>
+</ArrayOfJsonSmth>

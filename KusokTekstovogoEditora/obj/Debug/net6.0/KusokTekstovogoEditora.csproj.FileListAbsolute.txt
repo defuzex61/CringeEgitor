@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\KusokTekstovogoEditora\KusokTekstovogoEditora\bin\Debug\net6.0\KusokTekstovogoEditora.exe
+C:\Users\user\source\repos\KusokTekstovogoEditora\KusokTekstovogoEditora\bin\Debug\net6.0\KusokTekstovogoEditora.deps.json
+C:\Users\user\source\repos\KusokTekstovogoEditora\KusokTekstovogoEditora\bin\Debug\net6.0\KusokTekstovogoEditora.runtimeconfig.json
+C:\Users\user\source\repos\KusokTekstovogoEditora\KusokTekstovogoEditora\bin\Debug\net6.0\KusokTekstovogoEditora.dll
+C:\Users\user\source\repos\KusokTekstovogoEditora\KusokTekstovogoEditora\bin\Debug\net6.0\KusokTekstovogoEditora.pdb
+C:\Users\user\source\repos\KusokTekstovogoEditora\KusokTekstovogoEditora\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\KusokTekstovogoEditora\KusokTekstovogoEditora\obj\Debug\net6.0\KusokTekstovogoEditora.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\KusokTekstovogoEditora\KusokTekstovogoEditora\obj\Debug\net6.0\KusokTekstovogoEditora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\KusokTekstovogoEditora\KusokTekstovogoEditora\obj\Debug\net6.0\KusokTekstovogoEditora.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\KusokTekstovogoEditora\KusokTekstovogoEditora\obj\Debug\net6.0\KusokTekstovogoEditora.AssemblyInfo.cs
+C:\Users\user\source\repos\KusokTekstovogoEditora\KusokTekstovogoEditora\obj\Debug\net6.0\KusokTekstovogoEditora.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KusokTekstovogoEditora\KusokTekstovogoEditora\obj\Debug\net6.0\KusokTekstovogoEditora.csproj.CopyComplete
+C:\Users\user\source\repos\KusokTekstovogoEditora\KusokTekstovogoEditora\obj\Debug\net6.0\KusokTekstovogoEditora.dll
+C:\Users\user\source\repos\KusokTekstovogoEditora\KusokTekstovogoEditora\obj\Debug\net6.0\refint\KusokTekstovogoEditora.dll
+C:\Users\user\source\repos\KusokTekstovogoEditora\KusokTekstovogoEditora\obj\Debug\net6.0\KusokTekstovogoEditora.pdb
+C:\Users\user\source\repos\KusokTekstovogoEditora\KusokTekstovogoEditora\obj\Debug\net6.0\KusokTekstovogoEditora.genruntimeconfig.cache
+C:\Users\user\source\repos\KusokTekstovogoEditora\KusokTekstovogoEditora\obj\Debug\net6.0\ref\KusokTekstovogoEditora.dll

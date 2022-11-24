@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wXheIS3JNxzJk5uvp9RNoLNcVgAgSGV9g1+TGIE1IOiRGOgNx3yrBS3Q4w0koHRYGz3iWoiErAyux4ADJEE64w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\KusokTekstovogoEditora\\KusokTekstovogoEditora\\KusokTekstovogoEditora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
